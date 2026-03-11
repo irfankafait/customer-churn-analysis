@@ -1,0 +1,11 @@
+customer_id,tenure_months,monthly_charges,contract_type,support_tickets,churn_status
+101,12.0,50,Monthly,3.0,0
+102,24.0,70,Yearly,1.0,0
+103,5.0,65,Monthly,5.0,1
+104,36.0,90,Yearly,0.0,0
+105,20.0,40,Monthly,4.0,1
+106,48.0,100,Yearly,0.0,0
+107,30.0,85,Yearly,1.0,0
+108,10.0,60,Monthly,6.0,1
+109,20.0,75,Yearly,2.0,0
+110,15.0,55,Monthly,0.0,1
