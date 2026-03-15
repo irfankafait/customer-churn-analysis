@@ -20,7 +20,12 @@ The goal is to help businesses detect churn risk early and take preventive actio
 - Evaluate model performance using ROC Curve
 
 ---
+## Full Analysis Report
+You can view the full interactive notebook report here:
 
+https://github.com/irfankafait/customer-churn-analysis/blob/main/Customer_churn_analysis.html
+
+---
 ## Dataset
 
 The dataset contains information about customer demographics, service usage, and subscription details.
