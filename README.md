@@ -23,7 +23,7 @@ The goal is to help businesses detect churn risk early and take preventive actio
 ## Full Analysis Report
 You can view the full interactive notebook report here:
 
-https://github.com/irfankafait/customer-churn-analysis/blob/main/Customer_churn_analysis.html
+https://github.com/irfankafait/customer-churn-analysis/blob/reports/Customer_churn_analysis.html
 
 ---
 ## Dataset
@@ -66,7 +66,10 @@ Key analyses performed:
 
 Visualization example:
 
-![Churn by Contract](churn_by_contract.png)
+![Churn by Contract](images/churn_by_contract.png)
+![Confusion_Matrix](images/Confusion_Matrix.png)
+![Feature_Correlation_Matrix_heatmap](images/Feature_Correlation_Matrix_heatmap.png)
+![ROC_Curve](images/ROC_Curve.png)
 
 ### 4. Predictive Modeling
 
