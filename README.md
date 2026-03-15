@@ -23,7 +23,7 @@ The goal is to help businesses detect churn risk early and take preventive actio
 ## Full Analysis Report
 You can view the full interactive notebook report here:
 
-https://github.com/irfankafait/customer-churn-analysis/blob/reports/Customer_churn_analysis.html
+https://github.com/irfankafait/customer-churn-analysis/commit/77542cb97a35bc8d49abbadbec558ccac72dc7a8
 
 ---
 ## Dataset
